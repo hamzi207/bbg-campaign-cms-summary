@@ -42,16 +42,3 @@ A custom-built internal CMS tool used by the Shop Management Team at **Berlin Br
 
 ## 📌 Notes  
 This is a **case study only**. The original repository is **private and owned by BBG**. No source code is shared here due to confidentiality.
-
----
-
-## 📁 Screenshots or Mockups (optional)  
-_Add UI sketches, flowcharts, or feature outlines if allowed._
-
----
-
-## 🔗 How to Reference This in Interviews/Portfolio  
-Mention this GitHub page in your resume, LinkedIn, or during interviews to showcase:  
-- Real-world team collaboration  
-- PHP + SQL development on live business tools  
-- Contribution to a known brand's internal tech stack  
